@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Swannys. Others call me Brendan.
 - 👀 I’m interested in Sports and Computers
-- 🌱 I’m currently attending California State University, Chico
-- 💞️ I’m majoring in Computer Engineering
-- 📫 Feel free to shoot me a DM on Discord anytime: Carrying#0383
+- 💞️ I have a BS in Computer Engineering from California State University, Chico
 
 <!---
 Swannys/Swannys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
